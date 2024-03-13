@@ -1,2 +1,2 @@
-# Aula em Video
- Exercícios e Aulas do Canal Curso em Vídeo
+# Curso em Video
+ Repositório criado para gerenciamento de exercícios dos cursos do professor Gustavo Guanabara.
